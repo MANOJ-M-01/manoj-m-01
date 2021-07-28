@@ -9,7 +9,7 @@
 Hi there, :wave:
 
 My name is Manoj M, I am a Full Stack Developer with a background in
-Responsive WebDesign. I have been working with web development for 1 years in
+Responsive WebDesign. I have been working with web development for 2 years in
 which I had the opportunity to develop knowledge in planning, production and
 maintenance of Web applications.
 
