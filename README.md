@@ -13,7 +13,7 @@ Responsive WebDesign. I have been working with web development for 1 years in
 which I had the opportunity to develop knowledge in planning, production and
 maintenance of Web applications.
 
-I have professionally developed  Billing Softwares, Theater News.
+I have professionally developed  Billing Softwares, E-commerce websites, Static websites.
 Currently, I am developing a "Some :cool:" Project.
 
 <br />
