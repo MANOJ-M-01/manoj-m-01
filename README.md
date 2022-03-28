@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Manoj M" src="https://user-images.githubusercontent.com/73076286/118768947-398f4900-b89d-11eb-9f3c-6710009655b1.png" height="300px" />
     <br>Manoj M<br/>
-    FullStack Developer | HTML, CSS, JavaScript, PHP, MySQL
+    FullStack Developer | HTML, CSS, JavaScript, PHP, MySQL, ReactJS, Laravel
 </h1>
 
 ## :bookmark: About me
@@ -28,6 +28,8 @@ Currently, I am developing a "Some :cool:" Project.
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23316192.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL%20-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="ReactJS" src ="https://img.shields.io/badge/ReactJS%20-000.svg?&style=for-the-badge&logo=react"/>
+  <img alt="Laravel" src ="https://img.shields.io/badge/Laravel%20-fff.svg?&style=for-the-badge&logo=laravel"/>
 </p>
 
 <br />
