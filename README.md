@@ -61,6 +61,9 @@ I'm now engaged in a 🆒 project.
     <a href="https://medium.com/@manoj-m/" target="_blank">
         <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
     </a>
+    <a href="https://leetcode.com/manoj-m-01/" target="_blank">
+        <img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-FFA400.svg?&style=for-the-badge&logo=leetcode&logoColor=000" />
+    </a>
 </p>
 
 <div align="left">
