@@ -11,7 +11,7 @@ I'm now engaged in a 🆒 project.
 
 <br /> 
 
-### ⛏️ Languages and Tools
+## ⛏️ Languages and Tools
 
 <br />
 <p>
@@ -45,7 +45,7 @@ I'm now engaged in a 🆒 project.
 </p>
  
 
-# Find me on
+## 🌏 Find me on 
 
 <p>
     <a href="https://codepen.io/manoj-m-01/"  target="_blank">
@@ -74,12 +74,12 @@ I'm now engaged in a 🆒 project.
     </a>-->
 </p>
 
+<br  />
+
+## 📊 Infographics
 <div align="left">
 <table border="0" align="left" padding="30" >
     <thead>
-    <tr>
-        <td><h1 align="center">📊 Infographics<h1></td>
-    </tr>
     </thead>
     <tbody>
         <tr>
