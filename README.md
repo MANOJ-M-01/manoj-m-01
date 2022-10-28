@@ -69,6 +69,15 @@ I'm now engaged in a 🆒 project.
     <a href="https://stackoverflow.com/users/15142613/manoj-m?tab=profile" target="_blank">
         <img alt="Leetcode" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
     </a>
+    <a href="https://cssbattle.dev/player/manoj_m" target="_blank">
+        <img alt="CSSBattle" src="https://cssbattle.dev/images/logo.svg" />
+    </a>
+    <a href="https://cssbattle.dev/player/manoj_m" target="_blank">
+        <img alt="CSSBattle" src="https://cssbattle.dev/images/logo.svg" />
+    </a>
+     <a href="https://monkeytype.com/profile/Manoj-M" target="_blank">
+        <img alt="Monkeytype" src="https://premium-storefronts.s3.amazonaws.com/storefronts/monkeytype/assets/logo.png" />
+    </a>
 </p>
 
 <div align="left">
