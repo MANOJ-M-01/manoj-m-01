@@ -38,6 +38,7 @@ I'm now engaged in a 🆒 project.
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="markdown" width="30px" style="padding-right:10px;padding-top:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />  
+ <img align="left" alt="Php" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
 <br />
 <br />
 </p>
