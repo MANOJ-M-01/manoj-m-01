@@ -71,10 +71,10 @@ I'm now engaged in a 🆒 project.
     </a>
     <a href="https://cssbattle.dev/player/manoj_m" target="_blank">
         <img alt="CSSBattle" src="https://cssbattle.dev/images/logo.svg" />
-    </a> 
-     <a href="https://monkeytype.com/profile/Manoj-M" target="_blank">
-        <img alt="Monkeytype" src="https://premium-storefronts.s3.amazonaws.com/storefronts/monkeytype/assets/logo.png" />
     </a>
+     <!--<a href="https://monkeytype.com/profile/Manoj-M" target="_blank">
+        <img width="130px" style="padding-right:10px;"  alt="Monkeytype" src="https://premium-storefronts.s3.amazonaws.com/storefronts/monkeytype/assets/logo.png" />
+    </a>-->
 </p>
 
 <div align="left">
