@@ -14,7 +14,7 @@ I'm now engaged in a 🆒 project.
 ### ⛏️ Languages and Tools
 
 <br />
-<p align="center" style="gap: 12px; display: flex; flex-wrap: wrap; ">
+<p>
 <img  alt="Php" width="50px" height="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img  alt="Laravel" width="50px" height="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> 
 <img  alt="HTML5" width="50px" height="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -43,14 +43,11 @@ I'm now engaged in a 🆒 project.
 <br />
 <br />
 </p>
-
-
-<br />
-<br />
-<br />
  
 
-<p align="center">
+# Find me on
+
+<p>
     <a href="https://codepen.io/manoj-m-01/"  target="_blank">
         <img alt="CodePen" src="https://img.shields.io/badge/CodePen%20-000.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
