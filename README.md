@@ -88,6 +88,9 @@ I'm now engaged in a 🆒 project.
              <a href="https://leetcode.com/manoj-m-01/">
               <img alt="Leetcode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmanoj-m-01&logo=leetcode&logoColor=yellow" />
              </a>
+              <a href="https://www.codewars.com/users/Manoj_M">
+              <img alt="codewars" src="https://www.codewars.com/users/Manoj_M/badges/micro" />
+             </a>
             <!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/MANOJ-M-01/MANOJ-M-01?style=social"  style="margin-right: 5px"/> -->
             <!-- <a href="https://github.com/manoj-m-01?tab=repositories&sort=stargazers">
                 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/manoj-m-01?color=18F700FF&style=for-the-badge&labelColor=488207&logo=star"/>
