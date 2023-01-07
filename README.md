@@ -26,6 +26,7 @@ I'm now engaged in a 🆒 project.
 <img  alt="Jquery" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
 <img  alt="React JS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alt="Node JS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img  alt="Express.js" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img  alt="Redux" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img  alt="npm" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img  alt="Python" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
