@@ -47,6 +47,7 @@ I'm now engaged in a 🆒 project.
 <img  alt="Nginx" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img  alt="Android Studio" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img  alt="Slack" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+ <img  alt="Notion" width="40px" height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
 <img  alt="SSH" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 <img  alt="Svelte" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img  alt="Tailwind CSS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
