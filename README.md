@@ -44,7 +44,7 @@ I'm now engaged in a 🆒 project.
 <img  alt="Playwright" width="40px" height="60px"  src="https://playwright.dev/img/playwright-logo.svg" />
 <img  alt="Dart" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img  alt="Flutter" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img  alt="Nginx" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img  alt="Nginx" width="40px" height="60px"  src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
 <img  alt="Android Studio" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img  alt="Slack" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
  <img  alt="Notion" width="40px" height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
