@@ -55,7 +55,7 @@ I'm now engaged in a 🆒 project.
 <img  alt="Apache HTTP Server" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <img  alt="Composer" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 <img  alt="FileZilla" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-<img  alt="Firebase" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img  alt="Firebase" width="40px" height="60px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <br />
 <br />
 </p>
