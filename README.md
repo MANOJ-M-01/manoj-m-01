@@ -115,8 +115,8 @@ I'm now engaged in a 🆒 project.
         </tr>
         <tr>
             <td>
-            <img alt="stats" src="https://github-readme-stats-ruby-one.vercel.app/api?username=MANOJ-M-01&count_private=true&show_icons=true&theme=dark" width="355" />
-            <img alt="Top Langs" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=MANOJ-M-01&layout=compact&theme=dark" width="300" />
+            <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=MANOJ-M-01&count_private=true&show_icons=true&theme=dark" width="355" />
+            <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJ-M-01&layout=compact&theme=dark" width="300" />
             </td>
         </tr>
         <tr>
