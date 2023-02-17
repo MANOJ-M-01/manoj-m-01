@@ -57,7 +57,8 @@ I'm now engaged in a 🆒 project.
 <img  alt="FileZilla" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <img  alt="Firebase" width="40px" height="60px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img  alt="Next.js" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img  alt="Prisma" width="40px" height="60px"  src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_prisma.svg" />
+<img  alt="Prisma" width="40px" height="60px"  src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_prisma.svg" /> 
+<img  alt="PostgreSQL" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <br />
 <br />
 </p>
