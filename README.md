@@ -2,12 +2,16 @@
 
 <br />
 
-**`Learner, Developer, & Debugger `**
+**`Lifelong Learner, Developer, & Debugger `**
 
-I am a full-stack developer. I've been specialising in web development for more than two years, which has allowed me to enhance my expertise in planning, design, development and testing the software applications.
-
-I've developed billing software, e-commerce websites, and static websites.
-I'm now engaged in a 🆒 project.
+- I'm a full-stack developer with over three years of experience in web development.
+- My skill set includes planning, design, development, and testing, with a focus on delivering high-quality software applications.
+- I'm proficient in both front-end and back-end development, making me a versatile and dynamic developer.
+- Throughout my career, I've worked on a diverse range of projects, including billing software, e-commerce websites, and static sites.
+- Currently, I'm working on a super cool project that challenges me to think outside the box and push the limits of my abilities.
+- I'm passionate about exploring the latest tech trends and applying creative problem-solving to develop innovative solutions.
+- I'm always seeking out new challenges and opportunities to learn and grow.
+- Let's collaborate and build something truly awesome together!
 
 <br /> 
 
