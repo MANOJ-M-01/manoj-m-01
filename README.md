@@ -64,10 +64,14 @@
 <img  alt="Prisma" width="40px" height="60px"  src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_prisma.svg" /> 
 <img  alt="PostgreSQL" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img  alt="Vagrant" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+<img  alt="JIRA" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img  alt="Codeigniter" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+<img  alt="Postman"   height="60px"   src="https://github.com/MANOJ-M-01/manoj-m-01/assets/73076286/89a9ba28-6ade-4029-860b-83fd58dc8bbe" />
+
 <br />
 <br />
 </p>
- 
+
 
 ## 🌏 Find me on 
 
