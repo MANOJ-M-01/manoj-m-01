@@ -67,7 +67,8 @@
 <img  alt="JIRA" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img  alt="Codeigniter" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
 <img  alt="Postman"   height="60px"   src="https://github.com/MANOJ-M-01/manoj-m-01/assets/73076286/89a9ba28-6ade-4029-860b-83fd58dc8bbe" />
-
+<img  alt="Confluence" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+ 
 <br />
 <br />
 </p>
