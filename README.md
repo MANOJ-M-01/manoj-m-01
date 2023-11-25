@@ -73,6 +73,7 @@
 <img  alt="Ubuntu" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img  alt="Mailgun" width="50px" height="50px"  src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" />
 <img  alt="Jest" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img  alt="Stripe" width="60px" height="50px"  src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" />
 <br />
 <br />
 </p>
