@@ -112,7 +112,7 @@
 
 ## 📊 Infographics
 <div align="left">
-<table border="0" align="left" padding="30" >
+<table border="0" align="center" padding="30" >
     <thead>
     </thead>
     <tbody>
@@ -144,5 +144,10 @@
         </tr>
     </tbody>
 </table>
-</div>
+</div>  
+</div>  
+
+
+```“Every generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.”```
+`― George Orwell`
 
