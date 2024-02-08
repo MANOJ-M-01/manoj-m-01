@@ -19,12 +19,12 @@
 
 <br />
 <p>
-<img  alt="Php" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img  alt="Laravel" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> 
+<img  alt="Php" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img  alt="Laravel" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> 
 <img  alt="HTML5" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS3" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  alt="SASS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img  alt="Bootstrap" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img  alt="Bootstrap" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img  alt="Javascript" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img  alt="Typescript" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="Jquery" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
@@ -36,7 +36,7 @@
 <img  alt="npm" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img  alt="Python" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img  alt="FastAPI" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" />  
-<img  alt="MySQL" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img  alt="MySQL" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img  alt="mongoDB" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img  alt="SQLAlchemy (ORM)" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
 <img  alt="git" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -54,7 +54,7 @@
  <img  alt="Notion" width="40px" height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
 <img  alt="SSH" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 <img  alt="Svelte" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img  alt="Tailwind CSS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img  alt="Tailwind CSS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img  alt="Vim" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <!--<img  alt="Apache HTTP Server" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />-->
 <img  alt="Composer" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
@@ -69,8 +69,8 @@
 <img  alt="Postman"   height="60px"   src="https://github.com/MANOJ-M-01/manoj-m-01/assets/73076286/89a9ba28-6ade-4029-860b-83fd58dc8bbe" />
 <img  alt="Confluence" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 <img  alt="Docker" width="60px" height="60px"  src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-<img  alt="AWS" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img  alt="Ubuntu" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img  alt="AWS" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img  alt="Ubuntu" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
 <img  alt="Mailgun" width="50px" height="50px"  src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" />
 <img  alt="Jest" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img  alt="Stripe" width="60px" height="50px"  src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" />
