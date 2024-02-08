@@ -70,10 +70,11 @@
 <img  alt="Confluence" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 <img  alt="Docker" width="60px" height="60px"  src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img  alt="AWS" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img  alt="Ubuntu" width="50px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
+<img  alt="Ubuntu" width="50px" height="60px"  src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 <img  alt="Mailgun" width="50px" height="50px"  src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" />
 <img  alt="Jest" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img  alt="Stripe" width="60px" height="50px"  src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" />
+<img  alt="Redis" width="60px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <br />
 <br />
 </p>
