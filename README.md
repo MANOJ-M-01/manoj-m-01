@@ -75,6 +75,8 @@
 <img  alt="Jest" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img  alt="Stripe" width="60px" height="50px"  src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" />
 <img  alt="Redis" width="60px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img alt="Github Actions" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+          
 <br />
 <br />
 </p>
