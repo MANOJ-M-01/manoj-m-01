@@ -51,7 +51,7 @@
 <img  alt="Nginx" width="40px" height="60px"  src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
 <img  alt="Android Studio" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img  alt="Slack" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
- <img  alt="Notion" width="40px" height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
+<img  alt="Notion" width="40px" height="60px"  src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
 <img  alt="SSH" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" />
 <img  alt="Svelte" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img  alt="Tailwind CSS" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
@@ -74,8 +74,10 @@
 <img  alt="Mailgun" width="50px" height="50px"  src="https://www.vectorlogo.zone/logos/mailgun/mailgun-icon.svg" />
 <img  alt="Jest" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img  alt="Stripe" width="60px" height="50px"  src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" />
-<img  alt="Redis" width="60px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img alt="Redis" width="60px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <img alt="Github Actions" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img alt="Terraform" width="60px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+          
           
 <br />
 <br />
