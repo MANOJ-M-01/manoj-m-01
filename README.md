@@ -77,6 +77,8 @@
 <img alt="Redis" width="40px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <img alt="Github Actions" width="40px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 <img alt="Terraform" width="40px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img alt="Webpack" width="40px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
+
           
           
 <br />
