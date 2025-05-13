@@ -10,17 +10,17 @@ Right now, I’m working on a project that dares to challenge how people think a
 
 #### 🧠 Skills, Tools & Tech Stack
 
-| **Category**        | **Technologies & Tools**                                                                                  |
-|---------------------|-----------------------------------------------------------------------------------------------------------|
-| **Languages**       | PHP, HTML5, CSS3, SASS, JavaScript, TypeScript, Python, Dart, SQL                                         |
-| **Frontend**        | Bootstrap, jQuery, React.js, Redux, Tailwind CSS, Svelte, Next.js, Flutter                                |
-| **Backend**         | Laravel, Node.js, Express.js, FastAPI, CodeIgniter                                                        |
-| **ORM & Databases** | Sequelize, SQLAlchemy, Prisma, MySQL, PostgreSQL, MongoDB, Redis                                          |
-| **DevOps**          | Git, GitHub, GitHub Actions, Docker, Terraform, Nginx, AWS, GCP, Vagrant, Ubuntu                          |
-| **Testing/QA**      | Jest, Playwright, Postman                                                                                 |
-| **Editors/IDEs**    | VS Code, Vim, Android Studio                                                                              |
-| **Collaboration**   | Notion, JIRA, Confluence, Slack                                                                           |
-| **Others**          | SSH, Markdown, Composer, FileZilla, Firebase, Stripe, Mailgun, Webpack                                    |
+| <sub> **Category** </sub>        | <sub> **Technologies & Tools** </sub>                                                                                  |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------|
+| <sub> **Languages** </sub>       | <sub> PHP, HTML5, CSS3, SASS, JavaScript, TypeScript, Python, Dart, SQL </sub>                                         |
+| <sub> **Frontend** </sub>        | <sub> Bootstrap, jQuery, React.js, Redux, Tailwind CSS, Svelte, Next.js, Flutter </sub>                                |
+| <sub> **Backend** </sub>         | <sub> Laravel, Node.js, Express.js, FastAPI, CodeIgniter </sub>                                                        |
+| <sub> **ORM & Databases** </sub> | <sub> Sequelize, SQLAlchemy, Prisma, MySQL, PostgreSQL, MongoDB, Redis </sub>                                          |
+| <sub> **DevOps** </sub>          | <sub> Git, GitHub, GitHub Actions, Docker, Terraform, Nginx, AWS, GCP, Vagrant, Ubuntu </sub>                          |
+| <sub> **Testing/QA** </sub>      | <sub> Jest, Playwright, Postman </sub>                                                                                 |
+| <sub> **Editors/IDEs** </sub>    | <sub> VS Code, Vim, Android Studio </sub>                                                                              |
+| <sub> **Collaboration** </sub>   | <sub> Notion, JIRA, Confluence, Slack </sub>                                                                           |
+| <sub> **Others** </sub>          | <sub> SSH, Markdown, Composer, FileZilla, Firebase, Stripe, Mailgun, Webpack </sub>                                    |
 
 #### 🌍 Find me on
 
