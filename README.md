@@ -4,8 +4,6 @@
 
 I'm **Manoj**, A full-stack developer who believes that code isn't just written, it's crafted. Over the past **4+ years**, I've worked at the intersection of **creativity**, **logic**, and **problem-solving**, building everything from billing systems and e-commerce platforms to sleek, static websites. But it's not just about shipping features for me it's about **engineering elegant solutions** that make lives easier.
 
-I’ve broken more things than I can count, but each bug fixed, each midnight debug session, has been another brick in the foundation of who I am as a developer.
-
 Right now, I’m working on a project that dares to challenge how people think about "problems." And when I'm not coding, you'll likely find me reading dev blogs, experimenting with emerging tools, or learning something that's *slightly ahead of its time*.
 
 #### 🧠 Skills, Tools & Tech Stack
