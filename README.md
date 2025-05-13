@@ -20,7 +20,7 @@ Right now, I’m working on a project that dares to challenge how people think a
 | ORM & DB Tools         | Prisma, Sequelize, SQLAlchemy, Query Optimization, Database Design, Indexing, Replication, Partitioning, Sharding  |
 | Architecture           | Monolith & Microservices, API Design, Application Architecture, System Design, Scaling Strategies                  |
 | DevOps & CI/CD         | Git, GitHub Actions, Jenkins, Docker, Docker Compose, Kubernetes, Nginx, AWS, GCP, Ubuntu, Terraform               |
-| Testing & QA           | Jest, Playwright, Cypress, Postman, Unit Testing                                                                   |
+| Testing                | Jest, Playwright, Cypress, Postman, Unit Testing                                                                   |
 | Development Tools      | VS Code, Vim, Android Studio, SSH, Webpack                                                                         |
 | Project & Agile        | Agile Methodologies, Scrum, Kanban, Release Planning, Estimation, Documentation, Notion, JIRA, Confluence          |
 | Others                 | Stripe, Hitpay, Firebase, Auth0, Clerk, Mailgun                                                                    |
