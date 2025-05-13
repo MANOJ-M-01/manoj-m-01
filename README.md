@@ -1,8 +1,8 @@
-### 😎 Manoj M
+### About Me
 
 **`Lifelong Learner. Builder. Debugger of Chaos.`**
 
-A full-stack developer who believes that code isn't just written – it's crafted. Over the past **4+ years**, I've worked at the intersection of **creativity**, **logic**, and **problem-solving**, building everything from billing systems and e-commerce platforms to sleek, static websites. But it's not just about shipping features for me it's about **engineering elegant solutions** that make lives easier.
+I'm **Manoj**, A full-stack developer who believes that code isn't just written – it's crafted. Over the past **4+ years**, I've worked at the intersection of **creativity**, **logic**, and **problem-solving**, building everything from billing systems and e-commerce platforms to sleek, static websites. But it's not just about shipping features for me it's about **engineering elegant solutions** that make lives easier.
 
 I’ve broken more things than I can count, but each bug fixed, each midnight debug session, has been another brick in the foundation of who I am as a developer.
 
