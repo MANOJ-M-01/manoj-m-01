@@ -32,19 +32,19 @@ Right now, I’m working on a project that dares to challenge how people think a
 <p>
     <a href="https://codepen.io/manoj-m-01/"  target="_blank">
         <img alt="CodePen" src="https://img.shields.io/badge/CodePen%20-000.svg?&style=for-the-badge&logo=codepen&logoColor=white" />
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/manoj-m-01/" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    </a>
+    </a>&nbsp;
     <a href="https://www.quora.com/profile/Manoj-M-507"  target="_blank">
         <img alt="Quora" src="https://img.shields.io/badge/Quora%20-DC0D15.svg?&style=for-the-badge&logo=quora&logoColor=white" />
-    </a>
+    </a>&nbsp;
     <a href="https://medium.com/@manoj-m/" target="_blank">
         <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
-    </a>
+    </a>&nbsp;
     <a href="https://stackoverflow.com/users/15142613/manoj-m?tab=profile" target="_blank">
         <img alt="Leetcode" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
-    </a>
+    </a>&nbsp;
 </p>
 
 ---
