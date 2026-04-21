@@ -2,7 +2,7 @@
 
 **`Lifelong Learner. Builder. Debugger of Chaos.`**
 
-I'm **Manoj**, A full-stack developer who believes that code isn't just written, it's crafted. Over the past **4+ years**, I've worked at the intersection of **creativity**, **logic**, and **problem-solving**, building everything from billing systems and e-commerce platforms to sleek, static websites. But it's not just about shipping features for me it's about **engineering elegant solutions** that make lives easier.
+I'm **Manoj**, A full-stack developer who believes that code isn't just written, it's crafted. Over the past **5+ years**, I've worked at the intersection of **creativity**, **logic**, and **problem-solving**, building everything from billing systems and e-commerce platforms to sleek, static websites. But it's not just about shipping features for me it's about **engineering elegant solutions** that make lives easier.
 
 Right now, I’m working on a project that dares to challenge how people think about "problems." And when I'm not coding, you'll likely find me reading dev blogs, experimenting with emerging tools, or learning something that's *slightly ahead of its time*.
 
